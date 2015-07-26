@@ -1,6 +1,8 @@
 //Ayal Gul//
 //OCR Program for Shipping labels//
 
+An OCR Program written in JAVA 
+
 //Information
 This Program should be able to give the user the ability to read the address
 off the return address from the shipping labels and store the information into 
